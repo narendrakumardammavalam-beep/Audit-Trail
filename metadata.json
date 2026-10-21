@@ -1,0 +1,6 @@
+{
+  "name": "AuditTrail: Event-Sourced Logistics Ledger",
+  "description": "Immutable event-sourced ledger and forensic CQRS audit dashboard for supply chain containers and cold-chain inventory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
